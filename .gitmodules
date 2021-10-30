@@ -1,6 +1,8 @@
 [submodule "kipple-data"]
 	path = kipple-data
 	url = https://github.com/aapplebaum/kipple-data
+	branch = master
 [submodule "kipple-models"]
 	path = kipple-models
 	url = https://github.com/aapplebaum/kipple-models
+	branch = master
