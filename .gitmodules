@@ -1,0 +1,3 @@
+[submodule "kipple-data"]
+	path = kipple-data
+	url = https://github.com/aapplebaum/kipple-data
